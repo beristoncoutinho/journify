@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708052078029",
+    "project_id": "journify-9f89a",
+    "storage_bucket": "journify-9f89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708052078029:android:edabae6915113eef434884",
+        "android_client_info": {
+          "package_name": "com.example.journify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708052078029-5mcce9j1b4bh9m1sj6rka719c59r3rkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnRNJGq9B1JhcKgmJGygWuVe23rLCE7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708052078029-5mcce9j1b4bh9m1sj6rka719c59r3rkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Journify</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email Id</string>
+    <string name="journify">Journify</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="bg">bg</string>
+    <string name="signin">Sign in</string>
+    <string name="create_a_new_account">Create a new account </string>
+    <string name="login1">Login</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="add">add</string>
+    <string name="save">Save</string>
+    <string name="write_more_here">Write more here.....</string>
+    <string name="close">close</string>
+    <string name="Journify">Journify</string>
+</resources>

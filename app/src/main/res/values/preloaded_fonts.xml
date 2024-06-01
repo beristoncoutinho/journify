@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>@font/almendra_sc</item>
+        <item>@font/amarante</item>
+        <item>@font/caladea_bold</item>
+        <item>@font/chewy</item>
+        <item>@font/kotta_one</item>
+        <item>@font/patrick_hand</item>
+
+    </array>
+</resources>
